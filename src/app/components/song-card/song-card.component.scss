@@ -1,0 +1,179 @@
+.Songcard{
+    height: 275px;
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #202020;
+    margin-left: 22px;
+    margin-top: 6px;
+    border-radius: 12px;
+    transition: 0.4s;
+}
+.Songcard:hover{
+    background-color: #333333;
+    cursor: pointer;
+}
+.thumbnail {
+    margin: 13px;
+    border-radius: 8px;
+}
+
+.thumbnail img{
+    border-radius: 6px;
+}
+.thumbnail1 {
+    margin: 13px;
+    border-radius: 8px;
+}
+.thumbnail1 img{
+    border-radius: 80px;
+}
+.songname{
+    color: white;
+    margin-right:48px;
+}
+.songname1{
+    color: white;
+    margin-right:30px;
+}
+.songname2{
+    color: white;
+    margin-right:30px;
+}
+.songname3{
+    color: white;
+    margin-right:29px;
+}
+.songname4{
+    color: white;
+    margin-right:35px;
+}
+.songname5{
+    color: white;
+    margin-right:10px;
+    margin-bottom: 5px;
+}
+.songname6{
+    color: white;
+    margin-right:103px;
+    margin-bottom: 5px;
+}
+.songname7{
+    color: white;
+    margin-right:105px;
+    margin-bottom: 5px;
+}
+.songname8{
+    color: white;
+    margin-right:35px;
+    margin-bottom: 5px;
+}
+.songname9{
+    color: white;
+    margin-right:90px;
+    margin-bottom: 5px;
+}
+.songname10{
+    color: white;
+    margin-right:60px;
+}
+.songname11{
+    color: white;
+    margin-right:40px;
+}
+.songname12 {
+    color: white;
+    margin-right:2px;
+}
+.songname13{
+    color: white;
+    margin-right:18px;
+}
+.discription{
+    color: white;
+    font-size: 0.87rem;
+    padding-left: 10px;
+    font-weight:480;
+}
+.discription1{
+    color: white;
+    font-size: 0.87rem;
+    padding-left: 10px;
+    font-weight:480;
+    padding-bottom: 20px;
+    margin-right: 110px;
+}
+.discription2{
+    color: white;
+    font-size: 0.87rem;
+    font-weight:480;
+    padding-bottom: 20px;
+    margin-right: 90px;
+}
+.discription3{
+    color: white;
+    font-size: 0.87rem;
+    padding-left: 5px;
+    font-weight:480;
+    padding-bottom: 20px;
+    margin-right: 50px;
+}
+.discription4{
+    color: white;
+    font-size: 0.87rem;
+    font-weight:480;
+    padding-bottom: 20px;
+    margin-right: 80px;
+}
+.discription5{
+    color: white;
+    font-size: 0.87rem;
+    padding-bottom: 10px;
+    font-weight:480;
+}
+.heading{
+    display: flex;
+    
+}
+.p1 p{
+    margin-left: 1010px;
+    color: white;
+    padding-top: 95px;
+    font-size: 0.87rem;
+    font-weight: bold;
+}
+.head{
+    color: white;
+    margin-top: 87px;
+    margin-left: 20px;
+    
+}
+.head h1{
+    color: white;
+    font-size: 22px;
+    font-weight: 650;
+}
+.head h1:hover{
+    text-decoration: underline;
+}
+.p p{
+    color: white;
+    padding-top: 95px;
+    margin-left: 1030px;
+    font-size: 0.87rem;
+    font-weight: bold;
+}
+.p p:hover{
+    text-decoration: underline;
+}
+.p1 p:hover{
+    text-decoration: underline;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}

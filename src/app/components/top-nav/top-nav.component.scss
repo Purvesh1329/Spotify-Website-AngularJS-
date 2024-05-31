@@ -1,0 +1,56 @@
+.Topnav{
+    width: 100%;
+    height: 74px;
+    background: #0F0F0F;
+    position: fixed;
+    top: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-right: 250px;
+} 
+.main{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 900px;
+}
+
+.btn{
+    background-color: #0F0F0F;
+    display: flex;
+    gap: 30px;
+    color: white;
+    font-weight:500;
+    
+}
+.authentication{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 25px;
+    
+    
+}
+.Login{
+    background-color: white;
+    padding: 10px;
+    border-radius: 40px;
+    width: 110px;
+    height: 48px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+.Login:hover{
+    cursor: pointer;
+    color: rgb(25, 177, 25);
+    background-color:#0F0F0F;
+}
+.Signup{
+    color:white;
+    font-weight: 600;
+
+}
